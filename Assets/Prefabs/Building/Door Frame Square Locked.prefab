@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1976597198670481336
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 766741245451448017, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: m_Constraints
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1604832561472869481, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: locked
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1604832561472869481, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: zFixOffset
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5091536707868486122, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7d3081e713f146f41aff61540f7823ec, type: 2}
+    - target: {fileID: 5091536707868486122, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e323fb7c7c40b344ca282a7d9a8ce440, type: 2}
+    - target: {fileID: 5936357457726561453, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18.00008
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936357457726561453, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.000059723854
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936357457726561453, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 9.999889
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936357457726561453, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936357457726561453, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.50000006
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936357457726561453, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50000006
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936357457726561453, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936357457726561453, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936357457726561453, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936357457726561453, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8508698656115852412, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}
+      propertyPath: m_Name
+      value: Door Frame Square Locked
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9f2d54d5f04248c4f8e916b896774ad3, type: 3}

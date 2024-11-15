@@ -1,0 +1,18 @@
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    // Awake is called when the script object is initialised
+    private void Awake()
+    {
+        #NOTRIM#
+    }
+
+    // Update is called once per frame
+    private void Update()
+    {
+        #NOTRIM#
+    }
+}
+#ROOTNAMESPACEEND#

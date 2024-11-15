@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e3dbe94e4ee42e49855002b340d8334, type: 3}
+  m_Name: Basement Key Data
+  m_EditorClassIdentifier: 
+  itemName: Basement Key
+  itemType: 1
+  itemSprite: {fileID: 21300000, guid: 3d0a9f3cc443e814184d3e337d7d57b0, type: 3}
+  maxCount: 1
+  dropObject: {fileID: 9084885539917135158, guid: 3c3773fad7444c645bd84ca399c5fdc9, type: 3}
