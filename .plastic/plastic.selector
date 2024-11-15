@@ -1,4 +1,0 @@
-repository "Project-Hide@Oathstring@cloud"
-  path "/"
-    br "/main"
-    co "/main"
